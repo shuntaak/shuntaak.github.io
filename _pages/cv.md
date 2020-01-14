@@ -33,3 +33,8 @@ Teaching
 ======
 * Mathematics 1D (ODE, vector analysis, and variational analysis): assistant at the University of Tokyo, 2019 autumn
 * Mathematical information engineering exercise 1B (C language programming): assistant at the University of Tokyo, 2019 summer
+
+Research awards and grants
+======
+* UTokyo world leading innovative graduate study program (International Graduate Program of Innovation for Intelligent World), 2019 -- Now
+* Best paper award, SPWID 2017
