@@ -13,3 +13,8 @@ I am a graduate student at the Graduate School of Information Science and Techno
 Supervisor: Professor Akiko Takeda
 
 e-mail: TODO paste jpg here
+
+Recent News
+========
+*
+*
