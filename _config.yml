@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mitsuaki Obara"
-  avatar           : "profile.JPG"
+  avatar           : "FA76AF21-92C2-4F8C-B295-FE19704145A0.jpeg"
   bio              : "Graduate student at the University of Tokyo, majoring in continuous optimization"
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
