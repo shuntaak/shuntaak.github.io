@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Preprints / Submitted papers
+<!--Preprints / Submitted papers
 ======
-*
+*-->
 
 Journal Papers
 ======
-* B.S. in Engineering, The University of Tokyo, 2019
-* M.S. in Engineering, The University of Tokyo, 2021 (expected)
-<!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
+* The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project
 
 
 Proceedings
