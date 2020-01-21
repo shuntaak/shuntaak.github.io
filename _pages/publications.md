@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 
 Preprints / Submitted papers
