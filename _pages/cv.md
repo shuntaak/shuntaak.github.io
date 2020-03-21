@@ -35,7 +35,7 @@ Computer skills
   
 Teaching
 ======
-* Sep. 2019 -- Mar. 2019: Mathematics 1D (ODE, vector analysis, and variational analysis) teaching assistant, the University of Tokyo
+* Sep. 2019 -- Mar. 2020: Mathematics 1D (ODE, vector analysis, and variational analysis) teaching assistant, the University of Tokyo
 * Apr. 2019 -- Jun. 2019: Mathematical information engineering exercise 1B (C language programming) teaching assistant, the University of Tokyo
 
 Awards
