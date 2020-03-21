@@ -11,10 +11,10 @@ author_profile: true
 
 Journal Papers
 ======
-1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project. Japan Society of Traffic Engineers (Special edition), 4(1):A286-A293, 2018.
+1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project. Japan Society of Traffic Engineers Special edition, 4(1):A286-A293, Feb. 2018.
 
 
 Proceedings
 ======
-1. Obara,M,Kashiyama,T,Sekimoto,Y. “Deep Reinforcement Learning Approach for Train Rescheduling Utilizing Graph Theory” Applications of Big Data in the Transport Industry - A workshop of the IEEE International Conference on Big Data, December 2018, WA USA (in press)
-1. Obara,M,Kashiyama,T,Sekimoto,Y,Omata,H. “Analysis of Public Vehicle Use with Long-term GPS Data and the Possibility of Use Optimization – Through working car project” The Third International Conference on Smart Portable, Wearable, Implantable and Disability-oriented Devices and Systems (SPWID 2017), June 2017, Venice, Italy. (Best Paper Award)
+1. <ins>M. Obara</ins>, T. Kashiyama, and Y. Sekimoto. Deep reinforcement learning approach for train rescheduling utilizing graph theory. 2018 IEEE international conference on big data (Big Data), pp. 4525 -- 4533, Seattle, USA, Dec. 2018. (Workshop)
+1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. Analysis of public vehicle use with long-term GPS data and the possibility of use optimization – through working car project. The third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems (SPWID 2017), Venice, Italy, Jun. 2017. (Acceptance rate 26%, best paper award)
