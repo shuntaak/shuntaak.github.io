@@ -35,15 +35,15 @@ Computer skills
   
 Teaching
 ======
-* Sep. 2019 -- Mar. 2019: Mathematics 1D (ODE, vector analysis, and variational analysis): teaching assistant at the University of Tokyo
-* Apr. 2019 -- Jun. 2019: Mathematical information engineering exercise 1B (C language programming): teaching assistant at the University of Tokyo
+* Sep. 2019 -- Mar. 2019: Mathematics 1D (ODE, vector analysis, and variational analysis) teaching assistant, the University of Tokyo
+* Apr. 2019 -- Jun. 2019: Mathematical information engineering exercise 1B (C language programming): teaching assistant, the University of Tokyo
 
 Awards
 ======
 - Academic
   - Jul. 2017: Best paper award, SPWID 2017
 - Scholarship
-  - Jan. 2019 -- Now: International graduate program of innovation for intelligent world, The University of Tokyo
+  - Jan. 2019 -- Now: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
   - Jun. 2018: 1st place of freestyle B 70kg class, eastern Japan college rookies wrestling championship
   - Sep. 2017: Top performance and overall 4th place, Bloomberg global investment contest
