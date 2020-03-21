@@ -14,7 +14,7 @@ Supervisor: Professor Akiko Takeda
 
 e-mail:
 
-<img src=""https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true"" width=50% />
+<img src="https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true" alt="my e-mail" class="inline" width=50% />
 
 Recent News
 ========
