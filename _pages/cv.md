@@ -18,7 +18,7 @@ Education
   
 <!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
 
-Experience
+Work Experience
 ======
 * Dec. 2018 -- Now: Research part-timer
   * RIKEN center for brain science
