@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student at the Graduate School of Information Science and Technology, the University of Tokyo since April 2019. My research interests include mathematical programming and its applications to machine learning, traffic engineering and other fields.
 
-Supervisor: Professor Akiko Takeda
+Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
 e-mail:
 
