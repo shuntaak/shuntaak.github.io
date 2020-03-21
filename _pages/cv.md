@@ -15,6 +15,7 @@ Education
   * Department of mathematical engineering and information physics
 * Apr. 2019 -- Now: M.S. students, the University of Tokyo, 
   * Department of mathematical informatics
+  
 <!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
 
 Experience
@@ -23,6 +24,7 @@ Experience
   * RIKEN center for brain science
 * Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
   * Institute of industrial science, the University of Tokyo
+  
 <!--
 Computer skills
 ======
