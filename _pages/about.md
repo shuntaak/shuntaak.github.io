@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the Graduate School of Information Science and Technology, the University of Tokyo since April 2019. My research interests include mathematical programming and its applications to machine learning, traffic engineering and other fields.
+I am a graduate student at the Graduate School of Information Science and Technology, the University of Tokyo since April 2019. My research interests include mathematical programming and its applications to machine learning, control theory, traffic engineering and other fields.
 
 Supervisor: Professor Akiko Takeda
 
-e-mail: TODO paste jpg here
+e-mail: ![](https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true)
 
 Recent News
 ========
