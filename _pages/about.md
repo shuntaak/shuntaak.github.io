@@ -12,7 +12,9 @@ I am a graduate student at [Graduate School of Information Science and Technolog
 
 Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
-<img src="https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true"  height= "100" />
+Contact
+========
+mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 Recent News
 ========
