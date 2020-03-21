@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, The University of Tokyo, 2019
+* B.S. in Engineering, The University of Tokyo, Mar. 2019
   * Department of mathematical engineering and information physics
-<!-- * M.S. in Engineering, The University of Tokyo, 2021 (expected) -->
+* M.S. students The University of Tokyo, Apr. 2019 -- Now
+  * Department of mathematical informatics
 <!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
 
 Work experience
 ======
-* December 2018 -- now: Research part-timer
+* Dec. 2018 -- Now: Research part-timer
   * RIKEN Center for Brain Science
 
 <!--
@@ -34,7 +35,12 @@ Teaching
 * Mathematics 1D (ODE, vector analysis, and variational analysis): teaching assistant at the University of Tokyo, 2019 autumn
 * Mathematical information engineering exercise 1B (C language programming): teaching assistant at the University of Tokyo, 2019 summer
 
-Research awards and grants
+Awards
 ======
-* International graduate program of innovation for intelligent world, The University of Tokyo, January 2019 -- now
-* Best paper award, SPWID 2017, July 2017
+- Academic
+  - Best paper award, SPWID 2017, Jul. 2017
+- Scholarship
+  - International graduate program of innovation for intelligent world, The University of Tokyo, Jan. 2019 -- Now
+- Others
+  - 1st Place of Freestyle B 70kg class, eastern Japan college rookies championship (wrestling), Jun. 2018
+  - Top performance and overall 4th place, Bloomberg global investment contest, Sep. 2017
