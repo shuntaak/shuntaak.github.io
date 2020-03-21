@@ -12,9 +12,8 @@ I am a graduate student at the Graduate School of Information Science and Techno
 
 Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/index-e.html)
 
-e-mail: <img src="https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true"  width= 75% />
+<img src="https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true"  width= 75% />
 
 Recent News
 ========
-*
-*
+- 2020.3. I opened this web-site.
