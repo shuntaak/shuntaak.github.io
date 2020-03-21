@@ -18,4 +18,4 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 Recent News
 ========
-- 2020.3. I opened this web-site.
+- Mar. 2020 I opened this web-site.
