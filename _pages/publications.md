@@ -11,8 +11,7 @@ author_profile: true
 
 Journal Papers
 ======
-1. 
-The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project, 
+1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project. Japan Society of Traffic Engineers (Special edition), 4(1):A286-A293, 2018.
 
 
 Proceedings
