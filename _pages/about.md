@@ -14,7 +14,9 @@ Supervisor: Professor [Akiko Takeda](https://www.or.mist.i.u-tokyo.ac.jp/takeda/
 
 e-mail: ![alt text][e-mailimage]
 
-[e-mailimage]: https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true "e-mail" { width=50% }
+[e-mailimage]: https://github.com/shirokumakur0/shirokumakur0.github.io/blob/master/images/7EDB5A54-0310-4494-B793-FD16642C3B45.jpeg?raw=true "e-mail" 
+{: width="36"}
+
 
 Recent News
 ========
