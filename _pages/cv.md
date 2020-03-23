@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Mar. 2019: B.S. in engineering, the University of Tokyo
-  * Department of mathematical engineering and information physics
 * Apr. 2019 -- Now: M.S. students, the University of Tokyo, 
   * Department of mathematical informatics
+* Mar. 2019: B.S. in engineering, the University of Tokyo
+  * Department of mathematical engineering and information physics
   
 <!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
 
