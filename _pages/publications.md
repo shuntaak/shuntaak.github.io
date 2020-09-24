@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!--Preprints / Submitted papers
+Preprint
 ======
 1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. arXiv:2009.07153, Sep. 2020.
->
 
 Journal Paper
 ======
