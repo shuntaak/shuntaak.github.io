@@ -20,8 +20,8 @@ Education
 
 Work Experience
 ======
-* Dec. 2018 -- Now: Research part-timer
-  * RIKEN center for brain science
+* Dec. 2018 -- Sep. 2020: Research part-timer
+  * Center for brain science, RIKEN
 * Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
   * Institute of industrial science, the University of Tokyo
   
