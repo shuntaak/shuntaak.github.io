@@ -18,5 +18,5 @@ mitsuaki_obara [at] mist.i.u-tokyo.ac.jp
 
 Recent News
 ========
-- Sep. 2020: A new preprint is available at [arXiv](https://arxiv.org/abs/2009.07153).
+- Sep. 2020: A new preprint is available on [arXiv](https://arxiv.org/abs/2009.07153).
 - Mar. 2020: I opened this website.
