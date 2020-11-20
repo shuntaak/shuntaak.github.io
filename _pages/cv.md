@@ -42,7 +42,7 @@ Awards
 ======
 - Academic
   - Jul. 2017: Best paper award, SPWID 2017
-- Scholarship
+- Scholarship and grant
   - Nov. 2020 -- Now: Sprouting research RA's in value exchange engineering, the University of Tokyo
   - Jan. 2020 -- Now: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
