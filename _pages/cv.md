@@ -43,7 +43,7 @@ Awards
 - Academic
   - Jul. 2017: Best paper award, SPWID 2017
 - Scholarship and grant
-  - Nov. 2020 -- Now: Sprouting research RA in value exchange engineering, the University of Tokyo
+  - Nov. 2020 -- Now: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
   - Jan. 2020 -- Now: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
   - Jun. 2018: 1st prize of freestyle B 70kg class, eastern Japan college rookies wrestling championship
