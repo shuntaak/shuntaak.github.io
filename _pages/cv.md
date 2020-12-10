@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Apr. 2019 -- Now: M.S. students, the University of Tokyo, 
+* Apr. 2019 -- present: M.S. students, the University of Tokyo, 
   * Department of mathematical informatics
 * Mar. 2019: B.S. in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
@@ -43,8 +43,8 @@ Awards
 - Academic
   - Jul. 2017: Best paper award, SPWID 2017
 - Scholarship and grant
-  - Nov. 2020 -- Now: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
-  - Jan. 2020 -- Now: International graduate program of innovation for intelligent world, the University of Tokyo
+  - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
+  - Jan. 2020 -- present: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
   - Jun. 2018: 1st prize of freestyle B 70kg class, eastern Japan college rookies wrestling championship
   - Sep. 2017: Top performance and overall 4th place, Bloomberg global investment contest
