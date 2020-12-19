@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Apr. 2019 -- present: M.S. students, the University of Tokyo, 
+* Apr. 2019 -- present: M.S. students, the University of Tokyo
   * Department of mathematical informatics
 * Mar. 2019: B.S. in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
