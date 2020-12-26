@@ -16,7 +16,8 @@ Education
 * Mar. 2019: B.S. in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
   
-<!-- * Ph.D in Engineering, The Univeristy of Tokyo, 2024 (expected) -->
+<!-- * Apr. 2021 -- present: Ph.D candidate, the Univeristy of Tokyo
+      * Department of mathematical informatics -->
 
 Work Experience
 ======
@@ -24,14 +25,6 @@ Work Experience
   * Center for brain science, RIKEN
 * Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
   * Institute of industrial science, the University of Tokyo
-  
-<!--
-Computer skills
-======
-* C/C++
-* Python
-* MATLAB
--->
   
 Teaching
 ======
@@ -43,6 +36,7 @@ Awards
 - Academic
   - Jul. 2017: Best paper award, SPWID 2017
 - Scholarship and grant
+  <!-- - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science -->
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
   - Jan. 2020 -- present: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
