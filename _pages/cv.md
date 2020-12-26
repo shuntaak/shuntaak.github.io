@@ -33,7 +33,7 @@ Teaching
 
 Awards
 ======
-- Academic awards
+- Academic award
   - Jul. 2017: Best paper award, SPWID 2017
 - Grants and fellowships
   <!-- - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science -->
