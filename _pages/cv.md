@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* Apr. 2019 -- present: M.S. students, the University of Tokyo
+<!--* Apr. 2021 -- : Ph.D. student, the University of Tokyo
+  * Department of mathematical informatics-->
+* Apr. 2019 -- Mar. 2021: M.S. student, the University of Tokyo
   * Department of mathematical informatics
 * Mar. 2019: B.S. in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
   
-<!-- * Apr. 2021 -- present: Ph.D candidate, the Univeristy of Tokyo
-      * Department of mathematical informatics -->
 
 Work Experience
 ======
-* Dec. 2018 -- Sep. 2020: Research part-timer
+* Nov. 2020 -- Mar. 2021: Technical assistant
+  * Gradiate school of engineering, the University of Tokyo
+* Dec. 2018 -- Sep. 2020: Research part-timer 2
   * Center for brain science, RIKEN
-* Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
-  * Institute of industrial science, the University of Tokyo
   
 Teaching
 ======
@@ -42,3 +42,8 @@ Awards
 - Others
   - Jun. 2018: 1st prize of freestyle B 70kg class, eastern Japan college rookies wrestling championship
   - Sep. 2017: Top performance and overall 4th place, Bloomberg global investment contest
+
+Others
+======
+* Sep. 2016 -- Dec. 2018: Undergraduate research opportunity program
+  * Institute of industrial science, the University of Tokyo
