@@ -23,7 +23,7 @@ Work Experience
 ======
 * Apr. 2021 -- : Research fellowship for young scientists (DC1)
   * Japan society for the promotion of science
-  <!--* Apr. 2021 -- : Research assistant
+<!--* Apr. 2021 -- : Research assistant
     * Graduate school of engineering, the University of Tokyo -->
 * Nov. 2020 -- Mar. 2021: Technical assistant
   * Gradiate school of engineering, the University of Tokyo
