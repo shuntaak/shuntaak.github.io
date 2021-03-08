@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-<!--* Apr. 2021 -- : Ph.D. student, the University of Tokyo
-  * Department of mathematical informatics-->
-* Apr. 2019 -- Mar. 2021: M.S. student, the University of Tokyo
+* Apr. 2021 -- : Ph.D. student, the University of Tokyo
+  * Department of mathematical informatics
+* Mar. 2021: M.S. in information science and technology, the University of Tokyo
   * Department of mathematical informatics
 * Mar. 2019: B.S. in engineering, the University of Tokyo
   * Department of mathematical engineering and information physics
@@ -21,6 +21,10 @@ Education
 
 Work Experience
 ======
+* Apr. 2021 -- : Research fellowship for young scientists (DC1)
+  * Japan society for the promotion of science
+<!--* Apr. 2021 -- : Research assistant
+  * Graduate school of engineering, the University of Tokyo -->
 * Nov. 2020 -- Mar. 2021: Technical assistant
   * Gradiate school of engineering, the University of Tokyo
 * Dec. 2018 -- Sep. 2020: Research part-timer 2
@@ -36,7 +40,7 @@ Awards
 - Academic award
   - Jul. 2017: Best paper award, SPWID 2017
 - Grants and fellowships
-  <!-- - Apr. 2021 -- present: Research fellowship for young scientists (DC1), Japan society for the promotion of science -->
+  <!-- - Apr. 2021 -- : Research fellowship for young scientists (DC1), Japan society for the promotion of science -->
   - Nov. 2020 -- present: Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo
   - Jan. 2020 -- present: International graduate program of innovation for intelligent world, the University of Tokyo
 - Others
