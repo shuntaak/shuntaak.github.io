@@ -14,4 +14,4 @@ Supervisor: Professor [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
 
 Contact
 ========
-shunta akiyama@mist.i.u-tokyo.ac.jp
+shunta_akiyama@mist.i.u-tokyo.ac.jp
