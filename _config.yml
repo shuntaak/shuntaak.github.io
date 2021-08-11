@@ -7,7 +7,7 @@
 
 # Site Settings
 #theme                  : "minimal-mistakes-jekyll"
-#remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air"
 
 locale                   : "en-US"
@@ -312,17 +312,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
