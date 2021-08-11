@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shunta Akiyama"
 title_separator          : "-"
 name                     : &name "Shunta Akiyama"
-description              : &description "Graduate student at the University of Tokyo"
+description              : &description "Ph.D. student at the University of Tokyo"
 url                      : https://shuntaak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuntaak/shuntaak.github.io"
@@ -82,7 +82,6 @@ analytics:
 author:
   name             : "Shunta Akiyama"
   avatar           : #"IMG_1069.jpg"
-  bio              : "Graduate student at the University of Tokyo"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
