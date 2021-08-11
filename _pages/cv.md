@@ -21,12 +21,8 @@ Education
 
 Work Experience
 ======
-* Apr. 2021 -- : Research fellowship for young scientists (DC1)
-  * Japan society for the promotion of science
-* Nov. 2020 -- Mar. 2021: Technical assistant
-  * Gradiate school of engineering, the University of Tokyo
-* Dec. 2018 -- Sep. 2020: Research part-timer 2
-  * Center for brain science, RIKEN
+* Apr. 2021 -- Mar. 2021: Technical assistant
+  * Graduate school of engineering, the University of Tokyo
   
 Teaching
 ======
