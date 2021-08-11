@@ -3,8 +3,8 @@ main:
   # - title: "News"
   #  url: /News/   
   
- # - title: "Curriculum Vitae"
-  #  url: /cv/
+  - title: "Curriculum Vitae"
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
