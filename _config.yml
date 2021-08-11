@@ -7,8 +7,8 @@
 
 # Site Settings
 theme                  : "minimal-mistakes-jekyll"
-#remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air"
 
 locale                   : "en-US"
 title                    : "Shunta Akiyama"
