@@ -5,16 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Preprint
+International Conference Paper (accepted)
 ======
-1. <ins>M. Obara</ins>, T. Okuno, and A. Takeda. Sequential quadratic optimization for nonlinear optimization problems on Riemannian manifolds. arXiv:2009.07153, Sep. 2020. [[arXiv]](https://arxiv.org/abs/2009.07153)
+1. T. Suzuki, <ins>S. Akiyama</ins>: Benefit of deep learning with non-convex noisy gradient descent: Provable excess risk bound and superiority to kernel methods. International Conference on Learning Representations 2021. (selected as splotlight). [[arXiv]]https://arxiv.org/pdf/2012.03224.pdf
 
-Journal Paper
-======
-1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. The analysis of public-owned vehicle use with long-term GPS data and the possibility of use optimization: A case study in a working car project. Japan Society of Traffic Engineers Special edition, 4(1):A286-A293, Feb. 2018. (in Japanese)
-
-
-Proceedings
-======
-1. <ins>M. Obara</ins>, T. Kashiyama, and Y. Sekimoto. Deep reinforcement learning approach for train rescheduling utilizing graph theory. 2018 IEEE international conference on big data (Big Data), pp. 4525 -- 4533, Seattle, USA, Dec. 2018. (workshop paper)
-1. <ins>M. Obara</ins>, T. Kashiyama, Y. Sekimoto, and H. Omata. Analysis of public vehicle use with long-term GPS data and the possibility of use optimization – through working car project. The third international conference on smart portable, wearable, implantable, and disability-oriented devices and systems (SPWID 2017), Venice, Italy, Jun. 2017. (acceptance rate 26%. Best paper award)
+2. <ins>S. Akiyama</ins>, T. Suzuki,. On Learnability via Gradient Method for Two-Layer ReLU Neural Networks in Teacher-Student Setting. International Conference of Machine Learning 2021. [[arXiv]]https://arxiv.org/pdf/2106.06251.pdf 
