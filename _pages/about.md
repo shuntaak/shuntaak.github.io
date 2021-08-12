@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Graduate School of Information Science and Technology, the University of Tokyo. 
+I am a Ph.D. student at Graduate School of Information Science and Technology, the University of Tokyo. My research is statistical lerning theory, deep learning theory and optimizaition.
 
 Supervisor: Professor [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
 
