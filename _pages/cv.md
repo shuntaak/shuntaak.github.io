@@ -26,6 +26,3 @@ Teaching
 *	Machine Learning teaching assistant, UTokyo Extension Co. Ltd., Feb. 2020 --.
 *	Optimization teaching assistant, UTokyo Extension Co. Ltd., Mar. 2020 --.
 *	Statistics teaching assistant, UTokyo Extension Co. Ltd., Mar. 2020.
-
-Others
-======
