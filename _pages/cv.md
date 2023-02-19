@@ -26,3 +26,9 @@ Teaching
 *	Machine Learning teaching assistant, UTokyo Extension Co. Ltd., Feb. 2020 --.
 *	Optimization teaching assistant, UTokyo Extension Co. Ltd., Mar. 2020 --.
 *	Statistics teaching assistant, UTokyo Extension Co. Ltd., Mar. 2020.
+
+Awards
+======
+Fellowship
+* Mar. 2021 - Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo.
+* Apr. 2022 - Research fellowship for young scientists (DC2), Japan society for the promotion of science.
