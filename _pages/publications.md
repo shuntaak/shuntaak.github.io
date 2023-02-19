@@ -17,6 +17,6 @@ International Conference Paper (accepted)
 
 2. <ins>S. Akiyama</ins>, T. Suzuki: On Learnability via Gradient Method for Two-Layer ReLU Neural Networks in Teacher-Student Setting. International Conference of Machine Learning 2021. [[arXiv]](https://arxiv.org/abs/2106.06251)
 
-3.
+3. K. Oko, <ins>S. Akiyama</ins>, T. Murata and T. Suzuki: Reducing Communication in Nonconvex Federated Learning with a Novel Single-Loop Variance Reduction Method,  OPT 2022: Optimization for Machine Learning (NeurIPS 2022 Workshop), New Orleans, America, Dec. 2022.
 
 4. <ins>S. Akiyama</ins>, T. Suzuki: Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods. International Conference on Learning Representations 2023. [[arXiv]](https://arxiv.org/abs/2205.14818)
