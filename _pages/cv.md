@@ -32,5 +32,6 @@ Awards
 Fellowship
 * Mar. 2021 - Sprouting research RA in value exchange engineering, research institute for an inclusive society through engineering, the University of Tokyo.
 * Apr. 2022 - Research fellowship for young scientists (DC2), Japan society for the promotion of science.
+* 
 Academic award
 * Nov. 2022, Student presentation award finalist, The 24th Information-Based Induction Science Workshop
