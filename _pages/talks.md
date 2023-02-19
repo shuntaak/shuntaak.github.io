@@ -11,4 +11,6 @@ author_profile: true
 
 3. <ins>S. Akiyama</ins>, T. Suzuki: Training Two-Layer ReLU Neural Networks in Teacher-Student Settings through Unadjusted Langevin Algorithm, The 24th Information-Based Induction Science Workshop, online, Nov. 2021.
 
-2. <ins>S. Akiyama</ins>, T. Suzuki: Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods. Japanese Joint Statistical Meeting, Tokyo, Sep. 2022.
+4. <ins>S. Akiyama</ins>, T. Suzuki: Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods. Japanese Joint Statistical Meeting, Tokyo, Sep. 2022.
+
+5. <ins>S. Akiyama</ins>, K. Oko and T. Suzuki: Benign Overfitting of Two-Layer Neural Networks under Inputs with Intrinsic Dimension. The 24th Information-Based Induction Science Workshop, Ibaraki, Nov. 2022.
