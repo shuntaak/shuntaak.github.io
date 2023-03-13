@@ -7,9 +7,11 @@ author_profile: true
 
 **Preprint**
 ======
-1. K. Oko, <ins>S. Akiyama</ins>, T. Murata, T. Suzuki: Versatile Single-Loop Method for Gradient Estimator: First and Second Order Optimality, and its Application to Federated Learning. [[arXiv]](https://arxiv.org/abs/2209.00361)
+1. K. Oko, <ins>S. Akiyama</ins>, T. Suzuki: Diffusion Models are Minimax Optimal Distribution Estimators. [[arXiv]](https://arxiv.org/abs/2303.01861)
 
-2. <ins>S. Akiyama</ins>, M. Obara, Y. Kawase: Optimal design of lottery with cumulative prospect theory. [[arXiv]](https://arxiv.org/abs/2209.00822)
+2. K. Oko, <ins>S. Akiyama</ins>, T. Murata, T. Suzuki: Versatile Single-Loop Method for Gradient Estimator: First and Second Order Optimality, and its Application to Federated Learning. [[arXiv]](https://arxiv.org/abs/2209.00361)
+
+3. <ins>S. Akiyama</ins>, M. Obara, Y. Kawase: Optimal design of lottery with cumulative prospect theory. [[arXiv]](https://arxiv.org/abs/2209.00822)
 
 International Conference Paper (accepted)
 ======
