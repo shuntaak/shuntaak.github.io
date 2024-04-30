@@ -16,4 +16,4 @@ My research is statistical lerning theory, deep learning theory and optimizaitio
 
 Contact
 ========
-akiyama_shunta@mist.i.u-tokyo.ac.jp
+akiyama_shunta@ciberagent.co.jp
