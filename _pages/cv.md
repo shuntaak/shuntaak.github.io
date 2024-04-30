@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Apr 2024-- Research Scientest at Cyberagent, Inc.
+* Apr. 2024 -- Research Scientest at Cyberagent, Inc.
 * Mar. 2024: Ph.D. in information science and technology, the University of Tokyo
   * Department of mathematical informatics
 * Mar. 2021: M.S. in information science and technology, the University of Tokyo
