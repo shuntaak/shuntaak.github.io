@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Graduate School of Information Science and Technology, the University of Tokyo. My research is statistical lerning theory, deep learning theory and optimizaition.
+I am a research scientise at CyberAgent, Inc..
 
-Supervisor: Professor [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
+I recieved a Ph.D. degree from the University of Tokyo in 2024 (supervisor: Professor [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)). 
+
+My research is statistical lerning theory, deep learning theory and optimizaition.
 
 Contact
 ========
-shunta_akiyama@mist.i.u-tokyo.ac.jp
+akiyama_shunta@mist.i.u-tokyo.ac.jp
