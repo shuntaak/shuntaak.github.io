@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientise at CyberAgent, Inc..
+I am a research scientist at CyberAgent, Inc..
 
 I recieved a Ph.D. degree from the University of Tokyo in 2024 (supervisor: Professor [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)). 
 
