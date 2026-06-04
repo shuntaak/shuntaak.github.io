@@ -37,4 +37,4 @@ author_profile: true
 
 **Journal Articles**
 =====
-1. <ins>S. Akiyama*</ins>, M. Obara*, Y. Kawase: Optimal design of lottery with cumulative prospect theory. ACM Transactions on Economics and Computation (*equal contribution). [[arXiv]](https://arxiv.org/abs/2209.00822)
+1. <ins>S. Akiyama\*</ins>, M. Obara\*, Y. Kawase: Optimal design of lottery with cumulative prospect theory. ACM Transactions on Economics and Computation (\*equal contribution). [[arXiv]](https://arxiv.org/abs/2209.00822)
