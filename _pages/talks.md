@@ -26,6 +26,10 @@ Estimators. International Conference on Machine Learning. Hawaii, America, Jul.,
 
 9. <ins>S. Akiyama</ins>: Block Coordinate Descent for Neural Networks Provably Finds Global Minima. Annual Conference on Neural Information Processing Systems, San Diego, America, Dec., 2025.
 
+10. H. Yanagisawa, <ins>S. Akiyama</ins>: A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis. International Conference on Machine Learning. Seoul, South Korea, 2026.
+
+11. S. Sonoda, <ins>S. Akiyama</ins>, Y. Uezato: Why Agentic Theorem Prover Works: A Statistical Provability Theory of Mathematical Reasoning Models. International Conference on Machine Learning. Seoul, South Korea, 2026.
+    
 **Domestic Conference/Workshop**
 ------
 1. <ins>秋山 俊太</ins>, 鈴木 大慈: 教師生徒設定における勾配法による二層ReLUニューラルネットワークの学習可能性について. 統計関連学会連合大会, オンライン, 2021年9月.
